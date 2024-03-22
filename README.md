@@ -6,7 +6,7 @@
   2022
 </summary>
    - 데이터 기반 인공지능 시스템 엔지니어 양성 과정 수료   
-   - 웹 개발 스터디
+   
 </details>
 <details>
 <summary>
