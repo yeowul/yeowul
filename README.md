@@ -5,14 +5,14 @@
 <summary>
   2022
 </summary>
-   * 데이터 기반 인공지능 시스템 엔지니어 양성 과정 수료
-   * 웹 개발 스터디
+   - 데이터 기반 인공지능 시스템 엔지니어 양성 과정 수료
+   - 웹 개발 스터디
 </details>
 <details>
 <summary>
   2023
 </summary>
-   정보처리기사 취득
+   - 정보처리기사 취득
 </details>
 <details>
 <summary>
