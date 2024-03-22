@@ -24,4 +24,4 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeowul&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeowul&layout=compact&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeowul&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeowul&amp;show_icons=true&amp;hide_border=true&amp;title_color=004386&amp;icon_color=004386&amp;layout=compact)
