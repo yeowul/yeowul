@@ -5,7 +5,7 @@
 <summary>
   2022
 </summary>
-   &nbsp;<li>데이터 기반 인공지능 시스템 엔지니어 양성 과정 수료</li>   
+   <li>&nbsp;데이터 기반 인공지능 시스템 엔지니어 양성 과정 수료</li>   
    
 </details>
 <details>
