@@ -20,7 +20,7 @@
 <summary>
   
 </summary>
-   
+   2024
 </details>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeowul&show_icons=true&theme=radical)
