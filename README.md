@@ -15,6 +15,7 @@
   2023
 </summary>
   <li>정보처리기사 취득</li>
+  <li>인턴</li>
 </details>
 <details>
 <summary>
