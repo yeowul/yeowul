@@ -1,6 +1,5 @@
 #### Hi there 👋
 안녕하세요 파이썬 백엔드 개발자 이여울입니다.   
-![Visitor Count](https://hits.sh/yeowul/yeowul.github.io)
   
 #### Activity
 <details>
