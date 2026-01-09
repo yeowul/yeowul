@@ -1,5 +1,5 @@
 #### Hi there 👋
-안녕하세요 프론트엔드 개발자 이여울입니다.   
+I'm front-end developer
   
 #### Activity
 <details>
