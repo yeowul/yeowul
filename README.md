@@ -1,7 +1,24 @@
-#### Hi there 👋
-I'm front-end developer
+Hi, I’m Yeowul 👋  
+Frontend Developer with experience building production-level web applications using React.
+
+## What I Do
+- Build responsive and reusable UI components with React
+- Integrate REST APIs and handle data-driven UI states
+- Work on team-based projects using Git and collaborative workflows
+
+## Featured Project
+**MAJU Mentoring Platform**  
+Frontend Developer – Hackathon Project  
+- Built mentor–mentee matching frontend using React  
+- Implemented authentication, level test, and survey flows  
+- Collaborated with team members using Git branching strategies
+
+## Tech Stack
+- Frontend: React, JavaScript (ES6+), HTML, CSS
+- Tools: Git, GitHub, REST APIs
+
   
-#### Activity
+<!--#### Activity
 <details>
 <summary>
   2022
@@ -24,4 +41,4 @@ I'm front-end developer
 </details>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeowul&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeowul&amp;show_icons=true&amp;hide_border=true&amp;title_color=004386&amp;icon_color=004386&amp;layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeowul&amp;show_icons=true&amp;hide_border=true&amp;title_color=004386&amp;icon_color=004386&amp;layout=compact)--!>
